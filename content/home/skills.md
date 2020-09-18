@@ -18,19 +18,37 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = ""  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "matlab"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "MATLAB"
+  description = ""
+  
+ [[feature]]
+  icon = "fa-edit"
+  icon_pack = "fas"
+  name = "Writing"
+  description = ""
+  
+  [[feature]]
+  icon = "fa-head-side-brain"
+  icon_pack = "far"
+  name = "Neuroimaging"
+  description = ""
+  
+  [[feature]]
+  icon = "fa-poll-people"
+  icon_pack = "fad"
+  name = "Behavioral Research"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
