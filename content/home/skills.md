@@ -27,9 +27,9 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "matlab"
+  icon = "code"
   icon_pack = "fas"
-  name = "laptop-code"
+  name = "MATLAB"
   description = ""
   
  [[feature]]
