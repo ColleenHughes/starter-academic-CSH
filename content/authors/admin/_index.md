@@ -25,12 +25,16 @@ interests:
 - Aging, older adulthood
 - Functional neuroimaging and brain networks
 
+# Education to show in About widget
 education:
-  - PhD in Psychology
-    Indiana University, 2020
-  - BA in Psychology, minor in Neurosciences
-    St. Mary's College of Maryland, 2013
-
+  courses:
+  - course: PhD in Psychology
+    institution: Indiana University
+    year: 2020
+  - course: BA in Psychology, minor in Neurosciences
+    institution: St. Mary's College of Maryland
+    year: 2013
+    
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -54,3 +58,5 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
+
+---
