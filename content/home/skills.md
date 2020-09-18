@@ -28,25 +28,25 @@ subtitle = ""
   
 [[feature]]
   icon = "matlab"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "MATLAB"
   description = ""
   
  [[feature]]
-  icon = "fa-edit"
+  icon = "keyboard"
   icon_pack = "fas"
   name = "Writing"
   description = ""
   
   [[feature]]
-  icon = "fa-head-side-brain"
-  icon_pack = "far"
+  icon = "head-side-brain"
+  icon_pack = "fas"
   name = "Neuroimaging"
   description = ""
   
   [[feature]]
   icon = "fa-poll-people"
-  icon_pack = "fad"
+  icon_pack = "fas"
   name = "Behavioral Research"
   description = ""
 
