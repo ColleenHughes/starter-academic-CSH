@@ -39,13 +39,13 @@ subtitle = ""
   description = ""
   
   [[feature]]
-  icon = "head-side-brain"
+  icon = "brain"
   icon_pack = "fas"
   name = "Neuroimaging"
   description = ""
   
   [[feature]]
-  icon = "fa-poll-people"
+  icon = "poll"
   icon_pack = "fas"
   name = "Behavioral Research"
   description = ""
