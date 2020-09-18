@@ -61,4 +61,4 @@ email: ""
 
 ---
 
-I'm a postdoctoral researcher working with Dr. Nathan Spreng at the Montreal Neurological Institute-Hospital. I investigate the social neuroscience of aging. specifically how people perceive and understand the thoughts and feelings of others. My work examines social cognition among older adults using behavioral and functional neuroimaging methods. I'm experienced using explicit and implicit behavioral data collection methods (e.g., reverse correlation), as well as GLM and network fMRI analyses.
+I'm a postdoctoral researcher working with Dr. Nathan Spreng at the Montreal Neurological Institute-Hospital. I investigate the social neuroscience of aging, specifically how people perceive and understand the thoughts and feelings of others. I study social cognition among older adults using behavioral and functional neuroimaging methods. I'm experienced using explicit (e.g., questionnaires) and implicit (e.g., reverse correlation) behavioral data collection methods, as well as GLM and network fMRI analyses.
