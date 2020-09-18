@@ -20,12 +20,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a postdoctoral researcher working with Dr. Nathan Spreng at the Montreal Neurological Institute-Hospital. I investigate the social neuroscience of aging. specifically how people perceive and understand the thoughts and feelings of others. My work examines social cognition among older adults using behavioral and functional neuroimaging methods. I'm experienced using explicit and implicit behavioral data collection methods (e.g., reverse correlation), as well as GLM and network fMRI analyses.
 
-Interests:
+interests:
 - Social cognition
 - Aging, older adulthood
 - Functional neuroimaging and brain networks
 
-Education:
+education:
   - PhD in Psychology
     Indiana University, 2020
   - BA in Psychology, minor in Neurosciences
