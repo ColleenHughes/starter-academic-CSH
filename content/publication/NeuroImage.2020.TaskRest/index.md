@@ -7,8 +7,7 @@ authors:
 - Olaf Sporns
 - Anne C. Krendl
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- ""
 date: "2020-04-01T00:00:00Z"
 doi: ""
 
