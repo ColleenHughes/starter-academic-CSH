@@ -20,10 +20,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Aging NeuroPsychology and Cognition, 1*(1)"
+publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Older adults (OA) evaluate faces to be more trustworthy than do younger adults (YA), yet the processes supporting these more positive evaluations are unclear. This study identified neural mechanisms spontaneously engaged during face perception that differentially relate to OA’ and YA’ later trustworthiness evaluations. We examined two mechanisms: salience (reflected by amygdala activation) and reward (reflected by caudate activation) – both of which are implicated in evaluating trustworthiness. We emphasized the salience and reward value of specific faces by having OA and YA evaluate ingroup male White and outgroup Black and Asian faces. Participants perceived faces during fMRI and made trustworthiness evaluations after the scan. OA rated White and Black faces as more trustworthy than YA. OA had a stronger positive relationship between caudate activity and trustworthiness than YA when perceiving ingroup, but not outgroup, faces. Ingroup cues might intensify how trustworthiness is rewarding to OA, potentially reinforcing their overall positivity.
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
