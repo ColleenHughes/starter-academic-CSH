@@ -29,13 +29,16 @@ abstract: "Older adults (OA) evaluate faces to be more trustworthy than do young
 summary: Older adults (OA) evaluate faces to be more trustworthy than do younger adults (YA), yet the processes supporting these more positive evaluations are unclear. This study identified neural mechanisms spontaneously engaged during face perception that differentially relate to OA’ and YA’ later trustworthiness evaluations.
 
 tags:
-- Source Themes
+- reward
+- aging
+- trustworthiness
+- race
 featured: false
 
 # links:
-# - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+# - name: ""  
+url: "https://www.tandfonline.com/doi/abs/10.1080/13825585.2020.1809630"
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
