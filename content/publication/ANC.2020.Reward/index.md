@@ -1,4 +1,3 @@
-# ANC 2020 Reward
 
 ---
 title: "A stronger relationship between reward responsivity and trustworthiness evaluations emerges in healthy aging"
