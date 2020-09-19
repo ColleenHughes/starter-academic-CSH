@@ -37,7 +37,7 @@ featured: false
 
 # links:
 # - name: ""  
-url: "https://www.tandfonline.com/doi/abs/10.1080/13825585.2020.1809630"
+url: "www.tandfonline.com/doi/abs/10.1080/13825585.2020.1809630"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
