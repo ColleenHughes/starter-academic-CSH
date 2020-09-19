@@ -1,1 +1,0 @@
-# ANC 2020 Reward
